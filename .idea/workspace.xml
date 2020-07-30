@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e96a0c71-93ea-4935-83f7-c0225edcbb5a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Django_REST_Framework" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,11 +41,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596121927637</updated>
-      <workItem from="1596121954677" duration="2925000" />
+      <workItem from="1596121954677" duration="3699000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1596133832624">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.832@0.0.1536.832" timestamp="1596133832624" />
   </component>
 </project>
